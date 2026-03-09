@@ -46,10 +46,12 @@
       return;
     }
 
-    // California outline (always visible)
+    // California outline (always visible, with light fill for empty areas)
     outlineLayer = L.geoJSON(data.caOutline, {
       style: {
-        fill: false,
+        fill: true,
+        fillColor: '#f0ede6',
+        fillOpacity: 0.6,
         weight: 2,
         color: '#888',
         opacity: 0.6,
