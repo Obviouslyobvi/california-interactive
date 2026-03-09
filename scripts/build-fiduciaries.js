@@ -29,6 +29,20 @@ for (const f of geo.features) {
 
 console.log('Zip centroids computed:', Object.keys(centroids).length);
 
+// 1b. Build 3-digit prefix fallback centroids for PO Box / non-geographic zips
+const prefix3 = {};
+for (const [zip, [lat, lng]] of Object.entries(centroids)) {
+  const p = zip.substring(0, 3);
+  if (!prefix3[p]) prefix3[p] = { sumLat: 0, sumLng: 0, count: 0 };
+  prefix3[p].sumLat += lat;
+  prefix3[p].sumLng += lng;
+  prefix3[p].count++;
+}
+const prefix3Centroids = {};
+for (const [p, v] of Object.entries(prefix3)) {
+  prefix3Centroids[p] = [+(v.sumLat / v.count).toFixed(5), +(v.sumLng / v.count).toFixed(5)];
+}
+
 // 2. Parse fiduciaries CSV
 const csvPath = path.join(__dirname, '..', 'data', 'fiduciaries.csv');
 const csvText = fs.readFileSync(csvPath, 'utf8');
@@ -97,8 +111,11 @@ for (let i = 1; i < lines.length; i++) {
   const zip5 = String(postalCode).replace(/\s/g, '').substring(0, 5);
   if (!zip5 || zip5.length < 5) continue;
 
-  // Find coordinates
-  const coords = centroids[zip5];
+  // Find coordinates: exact zip match, then fallback to 3-digit prefix average
+  let coords = centroids[zip5];
+  if (!coords) {
+    coords = prefix3Centroids[zip5.substring(0, 3)];
+  }
   if (!coords) {
     unmatched.push({ name: firstName + ' ' + lastName, zip: zip5, city });
     continue;

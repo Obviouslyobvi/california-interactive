@@ -1,5 +1,17 @@
 [
   {
+    "name": "Lindsey Acton",
+    "company": "",
+    "address": "P.O. Box 420991",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92142",
+    "phone": "",
+    "email": "",
+    "lat": 32.77961,
+    "lng": -117.13547
+  },
+  {
     "name": "Meredith Adams",
     "company": "",
     "address": "4142 Adams Ave",
@@ -118,6 +130,18 @@
     "email": "",
     "lat": 37.42548,
     "lng": -121.77166
+  },
+  {
+    "name": "Debra Anderson",
+    "company": "",
+    "address": "P.O. Box 1025",
+    "city": "Boyes Hot Springs",
+    "state": "CA",
+    "zip": "95416",
+    "phone": "",
+    "email": "",
+    "lat": 38.89376,
+    "lng": -123.07267
   },
   {
     "name": "REBECCA ANDERSON",
@@ -250,6 +274,18 @@
     "email": "",
     "lat": 37.96895,
     "lng": -122.50116
+  },
+  {
+    "name": "Connis Aust",
+    "company": "",
+    "address": "PO Box 1492",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "zip": "95402",
+    "phone": "(707) 478-8532",
+    "email": "connie@austfiduciary.com",
+    "lat": 38.89376,
+    "lng": -123.07267
   },
   {
     "name": "Marion Austin",
@@ -396,6 +432,18 @@
     "lng": -122.26347
   },
   {
+    "name": "Susan Barineau",
+    "company": "",
+    "address": "500 Cathedral Dr Unit 2553",
+    "city": "Aptos",
+    "state": "CA",
+    "zip": "95001",
+    "phone": "",
+    "email": "",
+    "lat": 37.08486,
+    "lng": -121.85947
+  },
+  {
     "name": "Mariya Barnyak",
     "company": "",
     "address": "2059 Camden Ave #344",
@@ -504,6 +552,18 @@
     "lng": -117.07224
   },
   {
+    "name": "Randall Beckman",
+    "company": "",
+    "address": "28081 Marguerite Pkwy",
+    "city": "Mission Viejo",
+    "state": "CA",
+    "zip": "92690",
+    "phone": "(949) 415-4448",
+    "email": "randy@ldfin.com",
+    "lat": 33.62795,
+    "lng": -117.78124
+  },
+  {
     "name": "Paul Bednarski",
     "company": "",
     "address": "P.O. Box 1018",
@@ -552,6 +612,18 @@
     "lng": -117.28123
   },
   {
+    "name": "Laura Benintend",
+    "company": "",
+    "address": "PO Box 230985",
+    "city": "Encinitas",
+    "state": "CA",
+    "zip": "92023",
+    "phone": "(760) 452-0904",
+    "email": "laurabfiduciary@gmail.com",
+    "lat": 33.11754,
+    "lng": -117.07694
+  },
+  {
     "name": "Susan Bennett",
     "company": "",
     "address": "14384 Highland Valley Rd",
@@ -562,6 +634,30 @@
     "email": "bennettfiduciary@gmail.com",
     "lat": 33.08509,
     "lng": -117.01434
+  },
+  {
+    "name": "Jennifer Benson",
+    "company": "",
+    "address": "PO Box 32571",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95152",
+    "phone": "(408) 489-5135",
+    "email": "fowle1234@comcast.net",
+    "lat": 37.31077,
+    "lng": -121.85066
+  },
+  {
+    "name": "Noah Benton",
+    "company": "",
+    "address": "P O Box 300187",
+    "city": "Escondido",
+    "state": "CA",
+    "zip": "92030",
+    "phone": "",
+    "email": "",
+    "lat": 33.11754,
+    "lng": -117.07694
   },
   {
     "name": "David Beringer",
@@ -634,6 +730,18 @@
     "email": "james.bird@jmbirdpf.com",
     "lat": 40.63243,
     "lng": -122.46927
+  },
+  {
+    "name": "Dennis Black",
+    "company": "",
+    "address": "PO Box 1561",
+    "city": "Hemet",
+    "state": "CA",
+    "zip": "92546",
+    "phone": "(949) 677-5390",
+    "email": "dblack-pf@wildstarcs.com",
+    "lat": 33.75909,
+    "lng": -117.16661
   },
   {
     "name": "Pamela Blattner",
@@ -720,6 +828,30 @@
     "lng": -118.38605
   },
   {
+    "name": "Barbara Boghossian",
+    "company": "",
+    "address": "PO Box 10817",
+    "city": "Glendale",
+    "state": "CA",
+    "zip": "91209",
+    "phone": "(818) 524-8888",
+    "email": "barbara@bzdfiduciary.com",
+    "lat": 34.1674,
+    "lng": -118.25269
+  },
+  {
+    "name": "Catherine Bohlman",
+    "company": "",
+    "address": "PO Box 7272",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92167",
+    "phone": "(619) 808-5333",
+    "email": "cbohlman@live.com",
+    "lat": 32.77961,
+    "lng": -117.13547
+  },
+  {
     "name": "Beverly Boise-Cossart",
     "company": "",
     "address": "1752 E Lugonia Ave Ste 117-300",
@@ -756,6 +888,18 @@
     "lng": -121.78528
   },
   {
+    "name": "Judith Bolton",
+    "company": "",
+    "address": "P.O. Box 111387",
+    "city": "Campbell",
+    "state": "CA",
+    "zip": "95011",
+    "phone": "",
+    "email": "",
+    "lat": 37.08486,
+    "lng": -121.85947
+  },
+  {
     "name": "Antoinette Bordeaux",
     "company": "",
     "address": "301 Forest Ave",
@@ -768,6 +912,18 @@
     "lng": -117.77459
   },
   {
+    "name": "Louisa Bosshardt",
+    "company": "",
+    "address": "PO Box 1114",
+    "city": "Arroyo Grande",
+    "state": "CA",
+    "zip": "93421",
+    "phone": "(805) 305-1082",
+    "email": "louisabosshardt@gmail.com",
+    "lat": 35.20628,
+    "lng": -120.56593
+  },
+  {
     "name": "Beverly Bourbon",
     "company": "",
     "address": "3043 Meridian Ave",
@@ -778,6 +934,18 @@
     "email": "bev@willowglenfiduciary.com",
     "lat": 37.24938,
     "lng": -121.92069
+  },
+  {
+    "name": "Daniel Bowe",
+    "company": "",
+    "address": "PO Box 4131",
+    "city": "Palm Springs",
+    "state": "CA",
+    "zip": "92263",
+    "phone": "(760) 883-0733",
+    "email": "dpbowe@gmail.com",
+    "lat": 33.60946,
+    "lng": -115.90416
   },
   {
     "name": "Lindsay Bowman",
@@ -864,6 +1032,18 @@
     "lng": -118.01935
   },
   {
+    "name": "Jessica Britt",
+    "company": "",
+    "address": "PO Box 2103",
+    "city": "Menlo Park",
+    "state": "CA",
+    "zip": "94026",
+    "phone": "(650) 257-7026",
+    "email": "jmbritt@live.com",
+    "lat": 37.46667,
+    "lng": -122.26536
+  },
+  {
     "name": "Laura Brockwehl",
     "company": "",
     "address": "3701 Sacramento St",
@@ -886,6 +1066,18 @@
     "email": "janette@d4fiduciary.com",
     "lat": 38.25255,
     "lng": -122.30011
+  },
+  {
+    "name": "Susan Brooksbank",
+    "company": "",
+    "address": "PO Box 1299",
+    "city": "Cupertino",
+    "state": "CA",
+    "zip": "95015",
+    "phone": "(408) 904-8139",
+    "email": "susan@brooksbankfiduciary.com",
+    "lat": 37.08486,
+    "lng": -121.85947
   },
   {
     "name": "Robert Brower",
@@ -972,6 +1164,18 @@
     "lng": -121.25873
   },
   {
+    "name": "Ronda Brunson",
+    "company": "",
+    "address": "P.O. Box 14277",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "zip": "95402",
+    "phone": "",
+    "email": "",
+    "lat": 38.89376,
+    "lng": -123.07267
+  },
+  {
     "name": "David Buehler",
     "company": "",
     "address": "5080 Lakeville Highway",
@@ -982,6 +1186,18 @@
     "email": "",
     "lat": 38.20763,
     "lng": -122.52821
+  },
+  {
+    "name": "David Bullard",
+    "company": "",
+    "address": "PO Box 67276",
+    "city": "Scotts Valley",
+    "state": "CA",
+    "zip": "95067",
+    "phone": "(831) 607-2100",
+    "email": "david@dbfiduciary.com",
+    "lat": 37.08486,
+    "lng": -121.85947
   },
   {
     "name": "Bonnie Burdett",
@@ -1188,6 +1404,18 @@
     "lng": -118.38439
   },
   {
+    "name": "Janice Case",
+    "company": "",
+    "address": "P.O.Box 111387",
+    "city": "Campbell",
+    "state": "CA",
+    "zip": "95011",
+    "phone": "",
+    "email": "",
+    "lat": 37.08486,
+    "lng": -121.85947
+  },
+  {
     "name": "Teresa Castiglione",
     "company": "",
     "address": "300 Carlsbad Village Dr.",
@@ -1224,6 +1452,18 @@
     "lng": -116.99789
   },
   {
+    "name": "William Chaddock",
+    "company": "",
+    "address": "P.O. Box 293",
+    "city": "Fremont",
+    "state": "CA",
+    "zip": "94537",
+    "phone": "",
+    "email": "",
+    "lat": 37.94077,
+    "lng": -122.05666
+  },
+  {
     "name": "Marla Chaloukian",
     "company": "",
     "address": "2600 W Olive Ave",
@@ -1258,6 +1498,18 @@
     "email": "",
     "lat": 34.45688,
     "lng": -119.797
+  },
+  {
+    "name": "Ramona Chavez",
+    "company": "",
+    "address": "PO Box 3096",
+    "city": "South Pasadena",
+    "state": "CA",
+    "zip": "91031",
+    "phone": "(323) 259-8710",
+    "email": "rchavez@rcfiduciary.com",
+    "lat": 34.18237,
+    "lng": -118.1244
   },
   {
     "name": "Rafael Chavez Giron",
@@ -1404,6 +1656,18 @@
     "lng": -121.66344
   },
   {
+    "name": "Laurie Classen",
+    "company": "",
+    "address": "PO Box 1468",
+    "city": "Salinas",
+    "state": "CA",
+    "zip": "93902",
+    "phone": "(831) 809-9097",
+    "email": "laurieclassen@gmail.com",
+    "lat": 36.47713,
+    "lng": -121.57487
+  },
+  {
     "name": "Amber Claybourne",
     "company": "",
     "address": "9210 Irvine Center Dr Ste 200",
@@ -1414,6 +1678,18 @@
     "email": "",
     "lat": 33.66257,
     "lng": -117.74296
+  },
+  {
+    "name": "Judy Clement",
+    "company": "",
+    "address": "PO Box 7194",
+    "city": "Los Osos",
+    "state": "CA",
+    "zip": "93412",
+    "phone": "",
+    "email": "jude@baywoodfiduciary.com",
+    "lat": 35.20628,
+    "lng": -120.56593
   },
   {
     "name": "Michael Clemons",
@@ -1438,6 +1714,30 @@
     "email": "",
     "lat": 37.71584,
     "lng": -122.0824
+  },
+  {
+    "name": "Brett Cloney",
+    "company": "",
+    "address": "Po Box 2103",
+    "city": "Menlo Park",
+    "state": "CA",
+    "zip": "94026",
+    "phone": "",
+    "email": "",
+    "lat": 37.46667,
+    "lng": -122.26536
+  },
+  {
+    "name": "Crystal Coats",
+    "company": "",
+    "address": "PO Box 8749",
+    "city": "Chico",
+    "state": "CA",
+    "zip": "95927",
+    "phone": "(530) 514-2888",
+    "email": "crystalcoatsfs@gmail.com",
+    "lat": 39.49351,
+    "lng": -121.50219
   },
   {
     "name": "Keith Cobell Jr",
@@ -1596,6 +1896,18 @@
     "lng": -122.42281
   },
   {
+    "name": "John Cooper",
+    "company": "",
+    "address": "PO Box 50101",
+    "city": "Pasadena",
+    "state": "CA",
+    "zip": "91115",
+    "phone": "(323) 240-3993",
+    "email": "ok3@pacbell.net",
+    "lat": 34.15171,
+    "lng": -118.13389
+  },
+  {
     "name": "Peter Corbitt",
     "company": "",
     "address": "429 Zeno Way",
@@ -1680,6 +1992,18 @@
     "lng": -122.02268
   },
   {
+    "name": "Carol Cox",
+    "company": "",
+    "address": "P.O. Box 4195",
+    "city": "Mission Viejo",
+    "state": "CA",
+    "zip": "92690",
+    "phone": "",
+    "email": "",
+    "lat": 33.62795,
+    "lng": -117.78124
+  },
+  {
     "name": "Aishlin Coyle",
     "company": "",
     "address": "3354 Sacramento St",
@@ -1690,6 +2014,18 @@
     "email": "fiduciaryca12@gmail.com",
     "lat": 37.77799,
     "lng": -122.4573
+  },
+  {
+    "name": "Donald Craig",
+    "company": "",
+    "address": "P.O. Box 6103",
+    "city": "Ventura",
+    "state": "CA",
+    "zip": "93006",
+    "phone": "",
+    "email": "",
+    "lat": 34.2495,
+    "lng": -119.12162
   },
   {
     "name": "Roger Crissman",
@@ -1714,6 +2050,18 @@
     "email": "crockettal@comcast.net",
     "lat": 36.39649,
     "lng": -121.63667
+  },
+  {
+    "name": "Nancy Cronin",
+    "company": "",
+    "address": "PO Box 117400",
+    "city": "Burlingame",
+    "state": "CA",
+    "zip": "94011",
+    "phone": "(650) 340-9873",
+    "email": "nacronin@aol.com",
+    "lat": 37.46667,
+    "lng": -122.26536
   },
   {
     "name": "Melinda Cross",
@@ -1776,6 +2124,30 @@
     "lng": -122.40214
   },
   {
+    "name": "Rhiannon Cunningham",
+    "company": "",
+    "address": "P.O. Box 70730",
+    "city": "Point Richmond",
+    "state": "CA",
+    "zip": "94807",
+    "phone": "",
+    "email": "",
+    "lat": 37.94331,
+    "lng": -122.32975
+  },
+  {
+    "name": "Margaret Cymerys",
+    "company": "",
+    "address": "PO Box 151393",
+    "city": "San Rafael",
+    "state": "CA",
+    "zip": "94915",
+    "phone": "(415) 258-8166",
+    "email": "Peggy.cfsfiduciary@gmail.com",
+    "lat": 38.0794,
+    "lng": -122.68301
+  },
+  {
     "name": "Stephen Dale",
     "company": "",
     "address": "127 Aspen Dr",
@@ -1800,6 +2172,30 @@
     "lng": -121.63667
   },
   {
+    "name": "Shannon Dalton",
+    "company": "",
+    "address": "Po Box 14447",
+    "city": "Palm Desert",
+    "state": "CA",
+    "zip": "92255",
+    "phone": "",
+    "email": "",
+    "lat": 33.60946,
+    "lng": -115.90416
+  },
+  {
+    "name": "Michael D'arelli",
+    "company": "",
+    "address": "P.O. Box 32501",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95152",
+    "phone": "",
+    "email": "",
+    "lat": 37.31077,
+    "lng": -121.85066
+  },
+  {
     "name": "Heidi Darling",
     "company": "",
     "address": "PO Box 505",
@@ -1810,6 +2206,18 @@
     "email": "darlingfiduciary@gmail.com",
     "lat": 38.3216,
     "lng": -122.64416
+  },
+  {
+    "name": "Catherine Davis",
+    "company": "",
+    "address": "PO Box 5578",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95150",
+    "phone": "(408) 384-3813",
+    "email": "catherinedavisclpf@gmail.com",
+    "lat": 37.31077,
+    "lng": -121.85066
   },
   {
     "name": "Dion Davis",
@@ -1920,6 +2328,18 @@
     "lng": -122.43961
   },
   {
+    "name": "Elizabeth Dean",
+    "company": "",
+    "address": "PO Box 4124",
+    "city": "Davis",
+    "state": "CA",
+    "zip": "95617",
+    "phone": "(530) 564-8295",
+    "email": "beth@deantrustee.com",
+    "lat": 38.6425,
+    "lng": -121.27502
+  },
+  {
     "name": "Lawrence Dean",
     "company": "",
     "address": "Po Box 370",
@@ -1978,6 +2398,18 @@
     "email": "tdeliberto@recordsorg.com",
     "lat": 34.1339,
     "lng": -118.20925
+  },
+  {
+    "name": "Marlene Dennis",
+    "company": "",
+    "address": "P.O. Box 1268",
+    "city": "Alpine",
+    "state": "CA",
+    "zip": "91903",
+    "phone": "",
+    "email": "",
+    "lat": 32.70381,
+    "lng": -116.79146
   },
   {
     "name": "John DePiazza",
@@ -2040,6 +2472,30 @@
     "lng": -116.70216
   },
   {
+    "name": "Patricia Dicken",
+    "company": "",
+    "address": "PO Box 6160",
+    "city": "Visalia",
+    "state": "CA",
+    "zip": "93290",
+    "phone": "(559) 732-0759",
+    "email": "patd@perineanddicken.com",
+    "lat": 35.8362,
+    "lng": -119.18658
+  },
+  {
+    "name": "Ronald Dicken",
+    "company": "",
+    "address": "PO Box 6160",
+    "city": "Visalia",
+    "state": "CA",
+    "zip": "93290",
+    "phone": "(559) 732-0759",
+    "email": "rondicken01@comcast.net",
+    "lat": 35.8362,
+    "lng": -119.18658
+  },
+  {
     "name": "Robin Dier",
     "company": "",
     "address": "251 N City Dr #128f",
@@ -2062,6 +2518,18 @@
     "email": "rdigumarthi@gmail.com",
     "lat": 37.40965,
     "lng": -122.12985
+  },
+  {
+    "name": "Joy Dilday",
+    "company": "",
+    "address": "P.O. Box 151393",
+    "city": "San Rafael",
+    "state": "CA",
+    "zip": "94915",
+    "phone": "",
+    "email": "",
+    "lat": 38.0794,
+    "lng": -122.68301
   },
   {
     "name": "Brittany Dobson",
@@ -2098,6 +2566,18 @@
     "email": "debrajdolch@fiduciaryservices.net",
     "lat": 37.77064,
     "lng": -122.39179
+  },
+  {
+    "name": "Geraldine Donnelly",
+    "company": "",
+    "address": "Po Box 155",
+    "city": "La Mesa",
+    "state": "CA",
+    "zip": "91944",
+    "phone": "",
+    "email": "",
+    "lat": 32.70381,
+    "lng": -116.79146
   },
   {
     "name": "John Douglas",
@@ -2170,6 +2650,30 @@
     "email": "",
     "lat": 33.61058,
     "lng": -117.66462
+  },
+  {
+    "name": "Brenda Dragomir",
+    "company": "",
+    "address": "PO Box 111387",
+    "city": "Campbell",
+    "state": "CA",
+    "zip": "95011",
+    "phone": "(408) 978-8101",
+    "email": "bd@dfstrust.com",
+    "lat": 37.08486,
+    "lng": -121.85947
+  },
+  {
+    "name": "Mircea Dragomir",
+    "company": "",
+    "address": "P.O. Box 111387",
+    "city": "Campbell",
+    "state": "CA",
+    "zip": "95011",
+    "phone": "(408) 978-8101",
+    "email": "mdpfac@dfstrust.com",
+    "lat": 37.08486,
+    "lng": -121.85947
   },
   {
     "name": "Cynthia Droke",
@@ -2266,6 +2770,18 @@
     "email": "robert@earnestfi.com",
     "lat": 34.1262,
     "lng": -118.01935
+  },
+  {
+    "name": "Timothy Eckardt",
+    "company": "",
+    "address": "Po Box 1942",
+    "city": "Campbell",
+    "state": "CA",
+    "zip": "95009",
+    "phone": "",
+    "email": "",
+    "lat": 37.08486,
+    "lng": -121.85947
   },
   {
     "name": "Robyn Eckern",
@@ -2448,6 +2964,18 @@
     "lng": -122.29427
   },
   {
+    "name": "Reyna Escobar",
+    "company": "",
+    "address": "P.O. Box 130490",
+    "city": "Carlsbad",
+    "state": "CA",
+    "zip": "92013",
+    "phone": "",
+    "email": "",
+    "lat": 33.11754,
+    "lng": -117.07694
+  },
+  {
     "name": "Shelley Eskildsen",
     "company": "",
     "address": "3738 Foothill Blvd",
@@ -2592,6 +3120,18 @@
     "lng": -120.7272
   },
   {
+    "name": "Aileen Federizo",
+    "company": "ElderWell",
+    "address": "5805 White Oak Ave",
+    "city": "Encino",
+    "state": "CA",
+    "zip": "91416",
+    "phone": "(818) 436-4684",
+    "email": "aileen@elderwell.net",
+    "lat": 34.17846,
+    "lng": -118.4581
+  },
+  {
     "name": "Jennifer Feehan",
     "company": "Jennifer Feehan Professional Fiduciary, Inc.",
     "address": "9740 Campo Rd",
@@ -2724,6 +3264,18 @@
     "lng": -118.35802
   },
   {
+    "name": "Patricia Fister",
+    "company": "",
+    "address": "PO Box 130490",
+    "city": "Carlsbad",
+    "state": "CA",
+    "zip": "92013",
+    "phone": "(760) 931-8821",
+    "email": "pf4care@gmail.com",
+    "lat": 33.11754,
+    "lng": -117.07694
+  },
+  {
     "name": "Richard Fivis",
     "company": "One On One BBA, Inc.",
     "address": "533 Airport Blvd",
@@ -2748,6 +3300,18 @@
     "lng": -116.27547
   },
   {
+    "name": "Lynne Fleming Conger",
+    "company": "",
+    "address": "P.O. Box 111807",
+    "city": "Campbell",
+    "state": "CA",
+    "zip": "95011",
+    "phone": "",
+    "email": "",
+    "lat": 37.08486,
+    "lng": -121.85947
+  },
+  {
     "name": "Frederick Flemming",
     "company": "",
     "address": "17275 Voorhes Lane",
@@ -2758,6 +3322,18 @@
     "email": "",
     "lat": 33.04285,
     "lng": -116.83747
+  },
+  {
+    "name": "Richard Floyd",
+    "company": "",
+    "address": "P.O. Box 10817",
+    "city": "Glendale",
+    "state": "CA",
+    "zip": "91209",
+    "phone": "",
+    "email": "",
+    "lat": 34.1674,
+    "lng": -118.25269
   },
   {
     "name": "Rik Floyd",
@@ -2794,6 +3370,18 @@
     "email": "",
     "lat": 37.5407,
     "lng": -122.30129
+  },
+  {
+    "name": "Susan Fowle",
+    "company": "SF Fiduciary Services",
+    "address": "PO Box 32571",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95152",
+    "phone": "",
+    "email": "susan@sffiduciary.com",
+    "lat": 37.31077,
+    "lng": -121.85066
   },
   {
     "name": "John Fraker",
@@ -2844,6 +3432,18 @@
     "lng": -117.03996
   },
   {
+    "name": "Angelique Friend",
+    "company": "",
+    "address": "P.O. Box 988",
+    "city": "La Quinta",
+    "state": "CA",
+    "zip": "92247",
+    "phone": "",
+    "email": "",
+    "lat": 33.60946,
+    "lng": -115.90416
+  },
+  {
     "name": "Anne Friscia",
     "company": "",
     "address": "19201 Sonoma Hwy #139",
@@ -2892,6 +3492,18 @@
     "lng": -121.86218
   },
   {
+    "name": "Silvia Galaviz",
+    "company": "SPG Fiduciary Services",
+    "address": "PO Box 85",
+    "city": "Lakewood",
+    "state": "CA",
+    "zip": "90714",
+    "phone": "(424) 234-1982",
+    "email": "SilviaPGalaviz@gmail.com",
+    "lat": 33.79488,
+    "lng": -118.18341
+  },
+  {
     "name": "Jerry Gallagher",
     "company": "Vantage Fiduciary",
     "address": "4967 Newport Ave., Stew. 12",
@@ -2928,6 +3540,18 @@
     "lng": -122.0824
   },
   {
+    "name": "Deborah Garcia",
+    "company": "",
+    "address": "PO Box 293",
+    "city": "Fremont",
+    "state": "CA",
+    "zip": "94537",
+    "phone": "(510) 792-7000",
+    "email": "",
+    "lat": 37.94077,
+    "lng": -122.05666
+  },
+  {
     "name": "Leticia Garcia",
     "company": "",
     "address": "661 5th St",
@@ -2950,6 +3574,18 @@
     "email": "",
     "lat": 32.9582,
     "lng": -117.19494
+  },
+  {
+    "name": "James Gargiulo",
+    "company": "",
+    "address": "P.O. Box 1561",
+    "city": "Hemet",
+    "state": "CA",
+    "zip": "92546",
+    "phone": "",
+    "email": "",
+    "lat": 33.75909,
+    "lng": -117.16661
   },
   {
     "name": "Scott Garl",
@@ -3120,6 +3756,18 @@
     "lng": -118.28665
   },
   {
+    "name": "Condra Griffin",
+    "company": "",
+    "address": "P.O. Box 9075",
+    "city": "Marina Del Rey",
+    "state": "CA",
+    "zip": "90295",
+    "phone": "(310) 735-7542",
+    "email": "CG@fidcare.net",
+    "lat": 33.94705,
+    "lng": -118.35185
+  },
+  {
     "name": "Will Griffin",
     "company": "",
     "address": "4742 Mansfield St",
@@ -3154,6 +3802,18 @@
     "email": "jgrimes@grimesandcompany.com",
     "lat": 40.57473,
     "lng": -122.211
+  },
+  {
+    "name": "Krista Grosso",
+    "company": "",
+    "address": "P.O. Box 71",
+    "city": "Novato",
+    "state": "CA",
+    "zip": "94948",
+    "phone": "",
+    "email": "",
+    "lat": 38.0794,
+    "lng": -122.68301
   },
   {
     "name": "Suzanne Grudnitski",
@@ -3288,6 +3948,18 @@
     "lng": -118.20172
   },
   {
+    "name": "Beth Haley",
+    "company": "",
+    "address": "PO Box 8147",
+    "city": "Chico",
+    "state": "CA",
+    "zip": "95927",
+    "phone": "(530) 519-6254",
+    "email": "HaleyFSInc@gmail.com",
+    "lat": 39.49351,
+    "lng": -121.50219
+  },
+  {
     "name": "Kathryn Hall",
     "company": "",
     "address": "146 W Bastanchury Road",
@@ -3408,6 +4080,30 @@
     "lng": -124.13281
   },
   {
+    "name": "Mateen Hansen",
+    "company": "",
+    "address": "221 Main St",
+    "city": "Los Altos",
+    "state": "CA",
+    "zip": "94023",
+    "phone": "(650) 405-4665",
+    "email": "mateen@hansenfiduciary.com",
+    "lat": 37.46667,
+    "lng": -122.26536
+  },
+  {
+    "name": "Andrew Harker",
+    "company": "",
+    "address": "PO Box 4963",
+    "city": "Palm Springs",
+    "state": "CA",
+    "zip": "92263",
+    "phone": "(760) 459-1594",
+    "email": "aharker@harkerfiduciary.com",
+    "lat": 33.60946,
+    "lng": -115.90416
+  },
+  {
     "name": "Lori Hartin",
     "company": "",
     "address": "1100 Corporate Way",
@@ -3418,6 +4114,18 @@
     "email": "lori@WHCalifornia.com",
     "lat": 38.49671,
     "lng": -121.5273
+  },
+  {
+    "name": "Cynthia Harvey",
+    "company": "",
+    "address": "P.O. Box 14100",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "zip": "95402",
+    "phone": "",
+    "email": "",
+    "lat": 38.89376,
+    "lng": -123.07267
   },
   {
     "name": "David Haskell",
@@ -3454,6 +4162,18 @@
     "email": "bj@onesourcefiduciary.com",
     "lat": 33.95638,
     "lng": -118.40444
+  },
+  {
+    "name": "Theresa Hawkins",
+    "company": "",
+    "address": "PO Box 152630",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92195",
+    "phone": "(619) 698-9450",
+    "email": "thawkinspf@cox.net",
+    "lat": 32.77961,
+    "lng": -117.13547
   },
   {
     "name": "Kellie Hayes",
@@ -3504,6 +4224,18 @@
     "lng": -117.66462
   },
   {
+    "name": "Christopher Heller",
+    "company": "",
+    "address": "Po Box 720026",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92172",
+    "phone": "",
+    "email": "",
+    "lat": 32.77961,
+    "lng": -117.13547
+  },
+  {
     "name": "Fareday Hemingway",
     "company": "",
     "address": "3261 N Harbor Blvd Ste B",
@@ -3514,6 +4246,18 @@
     "email": "",
     "lat": 33.90372,
     "lng": -117.91008
+  },
+  {
+    "name": "Clarice Corki Henderson",
+    "company": "",
+    "address": "PO Box 406",
+    "city": "Grover Beach",
+    "state": "CA",
+    "zip": "93483",
+    "phone": "(805) 489-4221",
+    "email": "corki@claricehenderson.com",
+    "lat": 35.20628,
+    "lng": -120.56593
   },
   {
     "name": "Barbara Hendricks",
@@ -3528,6 +4272,18 @@
     "lng": -122.33411
   },
   {
+    "name": "Alison Henry",
+    "company": "",
+    "address": "PO Box 1865",
+    "city": "La Jolla",
+    "state": "CA",
+    "zip": "92038",
+    "phone": "(858) 335-0853",
+    "email": "alisondhenry@gmail.com",
+    "lat": 33.11754,
+    "lng": -117.07694
+  },
+  {
     "name": "Christopher Henry",
     "company": "",
     "address": "2075 Pioneer Ct",
@@ -3538,6 +4294,18 @@
     "email": "",
     "lat": 37.5407,
     "lng": -122.30129
+  },
+  {
+    "name": "Ryan Henry",
+    "company": "",
+    "address": "3288 Adams Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92176",
+    "phone": "(619) 925-9870",
+    "email": "ryan@henryfiduciarygroup.com",
+    "lat": 32.77961,
+    "lng": -117.13547
   },
   {
     "name": "Nina Herndon",
@@ -3552,6 +4320,18 @@
     "lng": -122.36176
   },
   {
+    "name": "Bobbi Herrington",
+    "company": "",
+    "address": "P.O. Box 241",
+    "city": "Los Altos",
+    "state": "CA",
+    "zip": "94023",
+    "phone": "",
+    "email": "",
+    "lat": 37.46667,
+    "lng": -122.26536
+  },
+  {
     "name": "Carol Herrington",
     "company": "",
     "address": "Po Box 1004",
@@ -3562,6 +4342,18 @@
     "email": "",
     "lat": 38.81911,
     "lng": -123.00741
+  },
+  {
+    "name": "Eric Hersh",
+    "company": "",
+    "address": "PO Box 700039",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95170",
+    "phone": "(408) 996-2432",
+    "email": "eric@hershassociates.net",
+    "lat": 37.31077,
+    "lng": -121.85066
   },
   {
     "name": "Matthew Heyberger",
@@ -3660,6 +4452,18 @@
     "lng": -117.92759
   },
   {
+    "name": "William Hlavaty",
+    "company": "",
+    "address": "P.O. Box 410621",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94141",
+    "phone": "",
+    "email": "",
+    "lat": 37.7655,
+    "lng": -122.42722
+  },
+  {
     "name": "Jeffrey Hodde",
     "company": "",
     "address": "809 Laurel St",
@@ -3706,6 +4510,18 @@
     "email": "",
     "lat": 32.9582,
     "lng": -117.19494
+  },
+  {
+    "name": "William Hoggan",
+    "company": "",
+    "address": "PO Box 32103",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95152",
+    "phone": "(408) 712-9457",
+    "email": "willhoggan@gmail.com",
+    "lat": 37.31077,
+    "lng": -121.85066
   },
   {
     "name": "Philip Holsworth",
@@ -3852,6 +4668,18 @@
     "lng": -117.16802
   },
   {
+    "name": "Joseph Hunt",
+    "company": "",
+    "address": "PO Box 2697",
+    "city": "Lodi",
+    "state": "CA",
+    "zip": "95241",
+    "phone": "(805) 714-2383",
+    "email": "",
+    "lat": 38.12135,
+    "lng": -120.94228
+  },
+  {
     "name": "Richard Huntington",
     "company": "",
     "address": "26440 La Alameda",
@@ -3948,6 +4776,18 @@
     "lng": -118.1704
   },
   {
+    "name": "Thomas Jacobsen",
+    "company": "",
+    "address": "P.O. Box 14100",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "zip": "95402",
+    "phone": "",
+    "email": "",
+    "lat": 38.89376,
+    "lng": -123.07267
+  },
+  {
     "name": "Stuart Jacobson",
     "company": "",
     "address": "2047 Lake Shore Ave",
@@ -3960,6 +4800,18 @@
     "lng": -118.2542
   },
   {
+    "name": "Laurie Jamison",
+    "company": "",
+    "address": "PO Box 971",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95353",
+    "phone": "(209) 996-1827",
+    "email": "lauriejamison@lauriejamisonfid.com",
+    "lat": 37.64031,
+    "lng": -120.67479
+  },
+  {
     "name": "Karen Jan",
     "company": "",
     "address": "1185 Broadway Ave",
@@ -3970,6 +4822,18 @@
     "email": "",
     "lat": 36.62623,
     "lng": -121.79169
+  },
+  {
+    "name": "Kenneth Jenkins",
+    "company": "",
+    "address": "Po Box 2276",
+    "city": "La Mesa",
+    "state": "CA",
+    "zip": "91943",
+    "phone": "",
+    "email": "",
+    "lat": 32.70381,
+    "lng": -116.79146
   },
   {
     "name": "Linda Jenkins",
@@ -4044,6 +4908,18 @@
     "lng": -117.45008
   },
   {
+    "name": "Allegra Jones",
+    "company": "",
+    "address": "PO Box 2",
+    "city": "Palm Desert",
+    "state": "CA",
+    "zip": "92261",
+    "phone": "(760) 831-5292",
+    "email": "",
+    "lat": 33.60946,
+    "lng": -115.90416
+  },
+  {
     "name": "Vanita Jones",
     "company": "",
     "address": "835 Wilshire Blvd",
@@ -4054,6 +4930,18 @@
     "email": "vjones@urbanfiduciaries.com",
     "lat": 34.05089,
     "lng": -118.26319
+  },
+  {
+    "name": "Kiah Jordan",
+    "company": "",
+    "address": "Po Box 720",
+    "city": "Palm Desert",
+    "state": "CA",
+    "zip": "92261",
+    "phone": "",
+    "email": "",
+    "lat": 33.60946,
+    "lng": -115.90416
   },
   {
     "name": "Mikayla Joseph",
@@ -4140,6 +5028,18 @@
     "lng": -121.98733
   },
   {
+    "name": "Murray Kalish",
+    "company": "",
+    "address": "P.O. Box 2321",
+    "city": "La Mesa",
+    "state": "CA",
+    "zip": "91943",
+    "phone": "",
+    "email": "",
+    "lat": 32.70381,
+    "lng": -116.79146
+  },
+  {
     "name": "Laura Kamian Mcdermott",
     "company": "",
     "address": "5214f Diamond Heights Blvd #230",
@@ -4188,6 +5088,18 @@
     "lng": -121.91794
   },
   {
+    "name": "Patricia Keefer",
+    "company": "",
+    "address": "PO Box 186",
+    "city": "Santa Paula",
+    "state": "CA",
+    "zip": "93061",
+    "phone": "(805) 620-0562",
+    "email": "patty@coastfiduciary.com",
+    "lat": 34.2495,
+    "lng": -119.12162
+  },
+  {
     "name": "Marsha Keeffer",
     "company": "",
     "address": "PO Box 1357",
@@ -4210,6 +5122,18 @@
     "email": "david.keeler@yahoo.com",
     "lat": 37.74969,
     "lng": -122.44751
+  },
+  {
+    "name": "Sharon Kennedy",
+    "company": "",
+    "address": "P.O. Box 8250",
+    "city": "Redlands",
+    "state": "CA",
+    "zip": "92375",
+    "phone": "",
+    "email": "",
+    "lat": 34.49257,
+    "lng": -116.99008
   },
   {
     "name": "Sarah Kerley",
@@ -4272,6 +5196,18 @@
     "lng": -117.0664
   },
   {
+    "name": "Christine King",
+    "company": "",
+    "address": "P.O. Box 32571",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95152",
+    "phone": "",
+    "email": "",
+    "lat": 37.31077,
+    "lng": -121.85066
+  },
+  {
     "name": "Christa Kinsman",
     "company": "",
     "address": "570 5th St",
@@ -4282,6 +5218,18 @@
     "email": "kinsman@advocatefiduciary.com",
     "lat": 38.94544,
     "lng": -121.27133
+  },
+  {
+    "name": "Rita Kiriaki",
+    "company": "",
+    "address": "PO Box 32501",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95152",
+    "phone": "(408) 960-4705",
+    "email": "Rkfiduciary@gmail.com",
+    "lat": 37.31077,
+    "lng": -121.85066
   },
   {
     "name": "Jennifer Kirkley",
@@ -4354,6 +5302,18 @@
     "email": "denise@trustklein.com",
     "lat": 34.148,
     "lng": -118.46457
+  },
+  {
+    "name": "Gabriella Klein",
+    "company": "",
+    "address": "P.O. Box 2",
+    "city": "Palm Desert",
+    "state": "CA",
+    "zip": "92261",
+    "phone": "",
+    "email": "",
+    "lat": 33.60946,
+    "lng": -115.90416
   },
   {
     "name": "Yvonne Knight",
@@ -4524,6 +5484,18 @@
     "lng": -122.29199
   },
   {
+    "name": "Diane Kubat",
+    "company": "",
+    "address": "P.O. Box 1373",
+    "city": "Murrieta",
+    "state": "CA",
+    "zip": "92564",
+    "phone": "",
+    "email": "",
+    "lat": 33.75909,
+    "lng": -117.16661
+  },
+  {
     "name": "Donna Kulleck",
     "company": "",
     "address": "2578 Glasgow Dr",
@@ -4608,6 +5580,18 @@
     "lng": -117.009
   },
   {
+    "name": "Lawrence Lahr",
+    "company": "",
+    "address": "Po Box 850",
+    "city": "Lake Forest",
+    "state": "CA",
+    "zip": "92609",
+    "phone": "",
+    "email": "",
+    "lat": 33.62795,
+    "lng": -117.78124
+  },
+  {
     "name": "Richard Lambie",
     "company": "",
     "address": "367 S Baywood Ave",
@@ -4654,6 +5638,18 @@
     "email": "",
     "lat": 32.83707,
     "lng": -116.87823
+  },
+  {
+    "name": "Arlene Langston",
+    "company": "",
+    "address": "PO Box 231772",
+    "city": "Encinitas",
+    "state": "CA",
+    "zip": "92023",
+    "phone": "(619) 851-4711",
+    "email": "arlenelangston@gmail.com",
+    "lat": 33.11754,
+    "lng": -117.07694
   },
   {
     "name": "Veronica Lanuza",
@@ -4740,6 +5736,30 @@
     "lng": -118.20925
   },
   {
+    "name": "H. Leas",
+    "company": "",
+    "address": "PO Box 25385",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93729",
+    "phone": "(559) 797-5927",
+    "email": "rick@cvfiduciary.com",
+    "lat": 36.77606,
+    "lng": -119.79666
+  },
+  {
+    "name": "H. F. Rick Leas",
+    "company": "",
+    "address": "PO Box 25385",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93729",
+    "phone": "(559) 797-5927",
+    "email": "",
+    "lat": 36.77606,
+    "lng": -119.79666
+  },
+  {
     "name": "Hambleton Leas",
     "company": "",
     "address": "22996 El Toro Suite 102",
@@ -4750,6 +5770,18 @@
     "email": "",
     "lat": 33.64068,
     "lng": -117.68568
+  },
+  {
+    "name": "Annie Lechtenberg",
+    "company": "",
+    "address": "PO Box 67009",
+    "city": "Scotts Valley",
+    "state": "CA",
+    "zip": "95067",
+    "phone": "",
+    "email": "Annielechtenberg414@gmail.com",
+    "lat": 37.08486,
+    "lng": -121.85947
   },
   {
     "name": "Deborah Lee",
@@ -5088,6 +6120,18 @@
     "lng": -116.88137
   },
   {
+    "name": "Bryan Lowe",
+    "company": "",
+    "address": "4640 Cass St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92169",
+    "phone": "(619) 991-0123",
+    "email": "bryan@missionbayfiduciary.com",
+    "lat": 32.77961,
+    "lng": -117.13547
+  },
+  {
     "name": "Diana Lowe",
     "company": "",
     "address": "124 Clinton Park",
@@ -5122,6 +6166,18 @@
     "email": "kenluis2022@gmail.com",
     "lat": 37.40965,
     "lng": -122.12985
+  },
+  {
+    "name": "Felicia Luong",
+    "company": "",
+    "address": "P.O. Box 1594",
+    "city": "Palm Desert",
+    "state": "CA",
+    "zip": "92261",
+    "phone": "",
+    "email": "",
+    "lat": 33.60946,
+    "lng": -115.90416
   },
   {
     "name": "Michael Lydon",
@@ -5184,6 +6240,18 @@
     "lng": -117.71045
   },
   {
+    "name": "Jody Madigan",
+    "company": "",
+    "address": "PO Box 371636",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92137",
+    "phone": "(619) 630-9646",
+    "email": "jody@madiganfiduciary.com",
+    "lat": 32.77961,
+    "lng": -117.13547
+  },
+  {
     "name": "Stephen Maguire",
     "company": "",
     "address": "567 Camino Mercado",
@@ -5244,6 +6312,18 @@
     "lng": -118.8987
   },
   {
+    "name": "Dennis Maloney",
+    "company": "",
+    "address": "P.O. Box 5975",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95150",
+    "phone": "",
+    "email": "",
+    "lat": 37.31077,
+    "lng": -121.85066
+  },
+  {
     "name": "Maria Mandolini",
     "company": "",
     "address": "1256 B St",
@@ -5254,6 +6334,18 @@
     "email": "mandolinimediation@gmail.com",
     "lat": 38.23268,
     "lng": -122.77806
+  },
+  {
+    "name": "Kathie Manville",
+    "company": "",
+    "address": "PO.Box 155",
+    "city": "La Mesa",
+    "state": "CA",
+    "zip": "91944",
+    "phone": "(619) 442-5586",
+    "email": "Kathie@kmanville.com",
+    "lat": 32.70381,
+    "lng": -116.79146
   },
   {
     "name": "Joy Margolis",
@@ -5328,6 +6420,18 @@
     "lng": -122.7007
   },
   {
+    "name": "Lindsey Martin",
+    "company": "",
+    "address": "P.O. Box 230082",
+    "city": "Encinitas",
+    "state": "CA",
+    "zip": "92023",
+    "phone": "",
+    "email": "",
+    "lat": 33.11754,
+    "lng": -117.07694
+  },
+  {
     "name": "Mary Mastrobattista",
     "company": "",
     "address": "1482 East Valley Rd Ste 42",
@@ -5338,6 +6442,18 @@
     "email": "",
     "lat": 34.44768,
     "lng": -119.62938
+  },
+  {
+    "name": "Jan Matthews",
+    "company": "",
+    "address": "PO Box 230082",
+    "city": "Encinitas",
+    "state": "CA",
+    "zip": "92023",
+    "phone": "(619) 446-7543",
+    "email": "jan.sdcoastalfiduciary@gmail.com",
+    "lat": 33.11754,
+    "lng": -117.07694
   },
   {
     "name": "Peggy Mattson",
@@ -5436,6 +6552,18 @@
     "lng": -122.13886
   },
   {
+    "name": "Kevin Mccarthy",
+    "company": "",
+    "address": "P.O. Box 460247",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94146",
+    "phone": "",
+    "email": "",
+    "lat": 37.7655,
+    "lng": -122.42722
+  },
+  {
     "name": "Lise McCarthy",
     "company": "",
     "address": "927 Vicente St",
@@ -5460,6 +6588,18 @@
     "lng": -117.06546
   },
   {
+    "name": "Jean McClune",
+    "company": "",
+    "address": "PO Box 2188",
+    "city": "Petaluma",
+    "state": "CA",
+    "zip": "94953",
+    "phone": "(707) 981-8809",
+    "email": "jean@fiduciaryadvantage.com",
+    "lat": 38.0794,
+    "lng": -122.68301
+  },
+  {
     "name": "Shelley McConnell",
     "company": "",
     "address": "567 Camino Mercado",
@@ -5482,6 +6622,18 @@
     "email": "leandra@iefids.com",
     "lat": 34.04465,
     "lng": -117.6234
+  },
+  {
+    "name": "Kelly McCoy",
+    "company": "",
+    "address": "PO Box 4189",
+    "city": "Orange",
+    "state": "CA",
+    "zip": "92863",
+    "phone": "(949) 697-1762",
+    "email": "kelly.mccoy@highlandguardian.com",
+    "lat": 33.83989,
+    "lng": -117.8212
   },
   {
     "name": "Linda Mccrory",
@@ -5518,6 +6670,42 @@
     "email": "christinam@godeckeclark.com",
     "lat": 33.70699,
     "lng": -116.39186
+  },
+  {
+    "name": "Danae Mcdaniel",
+    "company": "",
+    "address": "P.O. Box 28492",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92198",
+    "phone": "",
+    "email": "",
+    "lat": 32.77961,
+    "lng": -117.13547
+  },
+  {
+    "name": "Laura McDermott",
+    "company": "",
+    "address": "PO Box 70754",
+    "city": "Richmond",
+    "state": "CA",
+    "zip": "94807",
+    "phone": "(510) 593-4381",
+    "email": "",
+    "lat": 37.94331,
+    "lng": -122.32975
+  },
+  {
+    "name": "Fiona McDonough",
+    "company": "",
+    "address": "PO Box 383",
+    "city": "Monterey",
+    "state": "CA",
+    "zip": "93942",
+    "phone": "",
+    "email": "fiona@trusteeusa.com",
+    "lat": 36.47713,
+    "lng": -121.57487
   },
   {
     "name": "Jennifer McGibbons",
@@ -5566,6 +6754,30 @@
     "email": "mark@securefiduciary.com",
     "lat": 33.90372,
     "lng": -117.91008
+  },
+  {
+    "name": "Joseph Mcmackin",
+    "company": "",
+    "address": "P.O. Box 301093",
+    "city": "Escondido",
+    "state": "CA",
+    "zip": "92030",
+    "phone": "",
+    "email": "",
+    "lat": 33.11754,
+    "lng": -117.07694
+  },
+  {
+    "name": "John Mcmanus",
+    "company": "",
+    "address": "P.O. Box 850",
+    "city": "Lake Forest",
+    "state": "CA",
+    "zip": "92609",
+    "phone": "",
+    "email": "",
+    "lat": 33.62795,
+    "lng": -117.78124
   },
   {
     "name": "Leslie McNamara",
@@ -5664,6 +6876,18 @@
     "lng": -119.68102
   },
   {
+    "name": "Michelle Menzer",
+    "company": "",
+    "address": "6519 Bisby Lake Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92159",
+    "phone": "(619) 672-0617",
+    "email": "ugotdocs@gmail.com",
+    "lat": 32.77961,
+    "lng": -117.13547
+  },
+  {
     "name": "Jennifer Mergl",
     "company": "",
     "address": "855 Harbor Cliff Way",
@@ -5688,6 +6912,30 @@
     "lng": -122.60347
   },
   {
+    "name": "Lori Merrill",
+    "company": "",
+    "address": "PO Box 1025",
+    "city": "Boyes Hot Springs",
+    "state": "CA",
+    "zip": "95416",
+    "phone": "(707) 953-4283",
+    "email": "loribeth@paladinfiduciary.com",
+    "lat": 38.89376,
+    "lng": -123.07267
+  },
+  {
+    "name": "Lucas Meyers",
+    "company": "",
+    "address": "PO Box 4035",
+    "city": "Valley Village",
+    "state": "CA",
+    "zip": "91617",
+    "phone": "(208) 578-4757",
+    "email": "lucas@dignityfiduciary.com",
+    "lat": 34.16461,
+    "lng": -118.38339
+  },
+  {
     "name": "Rita Michael",
     "company": "",
     "address": "1219 Morningside Dr",
@@ -5698,6 +6946,18 @@
     "email": "ritadmichael@ritadmichael.com",
     "lat": 33.88795,
     "lng": -118.39498
+  },
+  {
+    "name": "Stephen Michea",
+    "company": "",
+    "address": "P.O. Box 518",
+    "city": "Sebastopol",
+    "state": "CA",
+    "zip": "95473",
+    "phone": "",
+    "email": "",
+    "lat": 38.89376,
+    "lng": -123.07267
   },
   {
     "name": "Kristin Miguel",
@@ -5794,6 +7054,18 @@
     "email": "timmock63@gmail.com",
     "lat": 33.76198,
     "lng": -118.13104
+  },
+  {
+    "name": "Jennifer Moezzi",
+    "company": "",
+    "address": "PO Box 4217",
+    "city": "San Rafael",
+    "state": "CA",
+    "zip": "94913",
+    "phone": "(415) 455-9585",
+    "email": "jvmoezzi@gmail.com",
+    "lat": 38.0794,
+    "lng": -122.68301
   },
   {
     "name": "Joel Mogy",
@@ -6108,6 +7380,18 @@
     "lng": -121.8601
   },
   {
+    "name": "Ramona Negrete Chavez",
+    "company": "",
+    "address": "PO Box 3096",
+    "city": "South Pasadena",
+    "state": "CA",
+    "zip": "91031",
+    "phone": "(323) 259-8710",
+    "email": "",
+    "lat": 34.18237,
+    "lng": -118.1244
+  },
+  {
     "name": "Joanne Nelson",
     "company": "",
     "address": "1958 Hathaway Ave",
@@ -6118,6 +7402,18 @@
     "email": "",
     "lat": 34.20693,
     "lng": -118.80962
+  },
+  {
+    "name": "Deirdre Nesbit-Combs",
+    "company": "",
+    "address": "Po Box 2604",
+    "city": "Carlsbad",
+    "state": "CA",
+    "zip": "92018",
+    "phone": "",
+    "email": "",
+    "lat": 33.11754,
+    "lng": -117.07694
   },
   {
     "name": "Richard Newman",
@@ -6216,6 +7512,30 @@
     "lng": -122.65636
   },
   {
+    "name": "Michael Noll",
+    "company": "",
+    "address": "PO Box 1147",
+    "city": "Sierra Madre",
+    "state": "CA",
+    "zip": "91025",
+    "phone": "(626) 657-2287",
+    "email": "mike@michaelnollassoc.com",
+    "lat": 34.18237,
+    "lng": -118.1244
+  },
+  {
+    "name": "Carey Nord",
+    "company": "",
+    "address": "P.O. Box 2644",
+    "city": "Monterey",
+    "state": "CA",
+    "zip": "93942",
+    "phone": "",
+    "email": "",
+    "lat": 36.47713,
+    "lng": -121.57487
+  },
+  {
     "name": "Jim Nord",
     "company": "",
     "address": "1436 2nd St",
@@ -6250,6 +7570,18 @@
     "email": "mnovak@profiduciary.com",
     "lat": 32.71989,
     "lng": -117.17163
+  },
+  {
+    "name": "Cindie Noy",
+    "company": "",
+    "address": "PO Box 8090",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93747",
+    "phone": "(559) 696-0449",
+    "email": "cindie@towhomhonorisdue.com",
+    "lat": 36.77606,
+    "lng": -119.79666
   },
   {
     "name": "Gregory Nunez",
@@ -6298,6 +7630,30 @@
     "email": "pablo@southlaurelgroup.com",
     "lat": 37.49642,
     "lng": -122.27178
+  },
+  {
+    "name": "Ma. OcaÃ±a",
+    "company": "",
+    "address": "PO Box 14100",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "zip": "95402",
+    "phone": "(707) 528-1364",
+    "email": "jacqui@catrustee.com",
+    "lat": 38.89376,
+    "lng": -123.07267
+  },
+  {
+    "name": "Catherine Ocana",
+    "company": "",
+    "address": "PO Box 14100",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "zip": "95402",
+    "phone": "(707) 528-1364",
+    "email": "catherine@catrustee.com",
+    "lat": 38.89376,
+    "lng": -123.07267
   },
   {
     "name": "Mary Ocana",
@@ -6444,6 +7800,18 @@
     "lng": -118.48673
   },
   {
+    "name": "Maria Ousley",
+    "company": "",
+    "address": "P.O. Box 4435",
+    "city": "Daly City",
+    "state": "CA",
+    "zip": "94016",
+    "phone": "",
+    "email": "",
+    "lat": 37.46667,
+    "lng": -122.26536
+  },
+  {
     "name": "Mia Ousley",
     "company": "",
     "address": "1271 Washington Ave",
@@ -6466,6 +7834,18 @@
     "email": "rebeccalowen@yahoo.com",
     "lat": 37.67659,
     "lng": -122.08864
+  },
+  {
+    "name": "Claire Owens",
+    "company": "",
+    "address": "PO Box 8128",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95155",
+    "phone": "(408) 569-6056",
+    "email": "claire@claireowensfiduciary.com",
+    "lat": 37.31077,
+    "lng": -121.85066
   },
   {
     "name": "La Shan Owens",
@@ -6600,6 +7980,18 @@
     "lng": -116.32993
   },
   {
+    "name": "Jeannine Patterson",
+    "company": "",
+    "address": "PO Box 393",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "zip": "95402",
+    "phone": "(707) 231-9868",
+    "email": "jeannine@northbayfiduciary.com",
+    "lat": 38.89376,
+    "lng": -123.07267
+  },
+  {
     "name": "Nicole Patterson",
     "company": "",
     "address": "PO Box 20445",
@@ -6696,6 +8088,18 @@
     "lng": -118.38439
   },
   {
+    "name": "Katrina Penland",
+    "company": "",
+    "address": "Po Box 117400",
+    "city": "Burlingame",
+    "state": "CA",
+    "zip": "94011",
+    "phone": "",
+    "email": "",
+    "lat": 37.46667,
+    "lng": -122.26536
+  },
+  {
     "name": "Matthew Pereira",
     "company": "",
     "address": "535 3rd St",
@@ -6720,6 +8124,18 @@
     "lng": -118.38439
   },
   {
+    "name": "Amber Peters",
+    "company": "",
+    "address": "P.O. Box 133",
+    "city": "Corte Madera",
+    "state": "CA",
+    "zip": "94976",
+    "phone": "",
+    "email": "",
+    "lat": 38.0794,
+    "lng": -122.68301
+  },
+  {
     "name": "Diane Peters",
     "company": "",
     "address": "2495 E Orange Grove Blvd",
@@ -6730,6 +8146,30 @@
     "email": "",
     "lat": 34.17053,
     "lng": -118.123
+  },
+  {
+    "name": "Arlene Peterson",
+    "company": "",
+    "address": "PO Box 18213",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95158",
+    "phone": "(408) 331-2890",
+    "email": "FiduciaryEstateSolutions@gmail.com",
+    "lat": 37.31077,
+    "lng": -121.85066
+  },
+  {
+    "name": "Gerald Phoenix",
+    "company": "",
+    "address": "PO Box 281",
+    "city": "Sebastopol",
+    "state": "CA",
+    "zip": "95473",
+    "phone": "(707) 827-3029",
+    "email": "jerry@phoenix-fiduciary.com",
+    "lat": 38.89376,
+    "lng": -123.07267
   },
   {
     "name": "Kimberly Pickering",
@@ -6828,6 +8268,18 @@
     "lng": -121.88091
   },
   {
+    "name": "Glen Prior",
+    "company": "",
+    "address": "PO Box 1373",
+    "city": "Murrieta",
+    "state": "CA",
+    "zip": "92564",
+    "phone": "(951) 377-9621",
+    "email": "glen.prior@fiduciary-world.com",
+    "lat": 33.75909,
+    "lng": -117.16661
+  },
+  {
     "name": "Elyse Prunty",
     "company": "",
     "address": "PO Box 358",
@@ -6876,6 +8328,18 @@
     "lng": -118.40444
   },
   {
+    "name": "Aprille Rafidison",
+    "company": "",
+    "address": "PO Box 14277",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "zip": "95402",
+    "phone": "(707) 535-9428",
+    "email": "crfiduciary@gmail.com",
+    "lat": 38.89376,
+    "lng": -123.07267
+  },
+  {
     "name": "Meghan Railey",
     "company": "",
     "address": "P.O. Box 41107",
@@ -6898,6 +8362,30 @@
     "email": "amjprobateservices@gmail.com",
     "lat": 33.9702,
     "lng": -118.03155
+  },
+  {
+    "name": "Monica Ramos",
+    "company": "",
+    "address": "PO Box 4361",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95352",
+    "phone": "(209) 353-3113",
+    "email": "seniorsramos@gmail.com",
+    "lat": 37.64031,
+    "lng": -120.67479
+  },
+  {
+    "name": "Saundra Randazzo",
+    "company": "",
+    "address": "PO Box 2644",
+    "city": "Monterey",
+    "state": "CA",
+    "zip": "93942",
+    "phone": "(831) 373-3372",
+    "email": "sandydazzo@gmail.com",
+    "lat": 36.47713,
+    "lng": -121.57487
   },
   {
     "name": "Paul Randi",
@@ -6960,6 +8448,18 @@
     "lng": -117.11736
   },
   {
+    "name": "Joseph Reed",
+    "company": "",
+    "address": "P O Box 700039",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95170",
+    "phone": "",
+    "email": "",
+    "lat": 37.31077,
+    "lng": -121.85066
+  },
+  {
     "name": "Debra Regina",
     "company": "",
     "address": "PO Box 1968",
@@ -6994,6 +8494,18 @@
     "email": "",
     "lat": 33.20045,
     "lng": -117.27997
+  },
+  {
+    "name": "Stella Rijeka",
+    "company": "",
+    "address": "PO Box 518",
+    "city": "Sebastopol",
+    "state": "CA",
+    "zip": "95473",
+    "phone": "(707) 545-6803",
+    "email": "stella@stellarfiduciary.com",
+    "lat": 38.89376,
+    "lng": -123.07267
   },
   {
     "name": "Scott Ripperton",
@@ -7032,6 +8544,18 @@
     "lng": -117.87185
   },
   {
+    "name": "Pamela Robertson",
+    "company": "",
+    "address": "P.O. Box 230985",
+    "city": "Encinitas",
+    "state": "CA",
+    "zip": "92023",
+    "phone": "",
+    "email": "",
+    "lat": 33.11754,
+    "lng": -117.07694
+  },
+  {
     "name": "Angela Rodrigues",
     "company": "",
     "address": "367 S Baywood Ave",
@@ -7042,6 +8566,18 @@
     "email": "angela@rhlambie.com",
     "lat": 37.31568,
     "lng": -121.93532
+  },
+  {
+    "name": "Carolina Rodriguez",
+    "company": "",
+    "address": "PO Box 5193",
+    "city": "Fullerton",
+    "state": "CA",
+    "zip": "92838",
+    "phone": "(562) 578-9336",
+    "email": "carosjade@jadefms.net",
+    "lat": 33.83989,
+    "lng": -117.8212
   },
   {
     "name": "Katherine Rodriguez",
@@ -7236,6 +8772,18 @@
     "lng": -118.35033
   },
   {
+    "name": "Brian Sakarata",
+    "company": "",
+    "address": "P.O. Box 1468",
+    "city": "Salinas",
+    "state": "CA",
+    "zip": "93902",
+    "phone": "",
+    "email": "",
+    "lat": 36.47713,
+    "lng": -121.57487
+  },
+  {
     "name": "Bridget Sakarata",
     "company": "",
     "address": "3559 Mt Diablo Blvd",
@@ -7270,6 +8818,30 @@
     "email": "robin@robinsax.com",
     "lat": 34.06483,
     "lng": -118.38145
+  },
+  {
+    "name": "Loret Sayler",
+    "company": "",
+    "address": "PO Box 6054",
+    "city": "Whittier",
+    "state": "CA",
+    "zip": "90609",
+    "phone": "(562) 691-8550",
+    "email": "loretsayler@yahoo.com",
+    "lat": 33.92007,
+    "lng": -118.03018
+  },
+  {
+    "name": "Joseph Scatena",
+    "company": "",
+    "address": "P.O. Box 1210",
+    "city": "Campbell",
+    "state": "CA",
+    "zip": "95009",
+    "phone": "",
+    "email": "",
+    "lat": 37.08486,
+    "lng": -121.85947
   },
   {
     "name": "Albert Schattner",
@@ -7464,6 +9036,18 @@
     "lng": -122.2866
   },
   {
+    "name": "Christopher Shively",
+    "company": "",
+    "address": "700 E Birch St",
+    "city": "Brea",
+    "state": "CA",
+    "zip": "92822",
+    "phone": "(714) 383-8046",
+    "email": "chris@valgardfs.com",
+    "lat": 33.83989,
+    "lng": -117.8212
+  },
+  {
     "name": "Ryan Shumacher",
     "company": "",
     "address": "P.O. Box 462524",
@@ -7498,6 +9082,18 @@
     "email": "",
     "lat": 38.54035,
     "lng": -122.43353
+  },
+  {
+    "name": "Barbara Simon",
+    "company": "",
+    "address": "PO Box 460490",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94146",
+    "phone": "(415) 285-3233",
+    "email": "bsimon@onetrustee.com",
+    "lat": 37.7655,
+    "lng": -122.42722
   },
   {
     "name": "Jeffrey Simpson",
@@ -7692,6 +9288,18 @@
     "lng": -117.73467
   },
   {
+    "name": "Elizabeth Soloway",
+    "company": "",
+    "address": "P.O. Box 221308",
+    "city": "Carmel",
+    "state": "CA",
+    "zip": "93922",
+    "phone": "",
+    "email": "",
+    "lat": 36.47713,
+    "lng": -121.57487
+  },
+  {
     "name": "Lisa Soloway",
     "company": "",
     "address": "3559 Mt Diablo Blvd",
@@ -7702,6 +9310,18 @@
     "email": "lisa@solofid.com",
     "lat": 37.90322,
     "lng": -122.11299
+  },
+  {
+    "name": "Matthew Solters",
+    "company": "",
+    "address": "P.O. Box 6103",
+    "city": "Ventura",
+    "state": "CA",
+    "zip": "93006",
+    "phone": "",
+    "email": "",
+    "lat": 34.2495,
+    "lng": -119.12162
   },
   {
     "name": "Christine Soresi",
@@ -7740,6 +9360,18 @@
     "lng": -121.92069
   },
   {
+    "name": "Gail Sparhawk",
+    "company": "",
+    "address": "PO Box 2276",
+    "city": "La Mesa",
+    "state": "CA",
+    "zip": "91943",
+    "phone": "(619) 820-8148",
+    "email": "gailsparhawk@gmail.com",
+    "lat": 32.70381,
+    "lng": -116.79146
+  },
+  {
     "name": "Thomas Spillane",
     "company": "",
     "address": "16911 Sf Mission Blvd Ste 345",
@@ -7764,6 +9396,18 @@
     "lng": -117.29383
   },
   {
+    "name": "Jen Sprogis",
+    "company": "",
+    "address": "PO Box 230010",
+    "city": "Encinitas",
+    "state": "CA",
+    "zip": "92023",
+    "phone": "(760) 331-3512",
+    "email": "jen@jsfiduciary.com",
+    "lat": 33.11754,
+    "lng": -117.07694
+  },
+  {
     "name": "Kathryn Spyrka",
     "company": "",
     "address": "8145 Whited Rd",
@@ -7774,6 +9418,18 @@
     "email": "katy@collaborativecarefiduciary.com",
     "lat": 38.40618,
     "lng": -122.86411
+  },
+  {
+    "name": "Lisa St Claire",
+    "company": "",
+    "address": "Po Box 235677",
+    "city": "Encinitas",
+    "state": "CA",
+    "zip": "92023",
+    "phone": "",
+    "email": "",
+    "lat": 33.11754,
+    "lng": -117.07694
   },
   {
     "name": "John Stack",
@@ -7992,6 +9648,18 @@
     "lng": -118.11349
   },
   {
+    "name": "Esmeralda Stokely",
+    "company": "",
+    "address": "6519 Bisby Lake Ave #19122",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92159",
+    "phone": "",
+    "email": "",
+    "lat": 32.77961,
+    "lng": -117.13547
+  },
+  {
     "name": "Michael Storz",
     "company": "",
     "address": "PO Box 1618",
@@ -8016,6 +9684,18 @@
     "lng": -117.45008
   },
   {
+    "name": "Karen Strasilla",
+    "company": "",
+    "address": "P.O. Box 8107",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95155",
+    "phone": "(408) 666-5384",
+    "email": "Karen@KarenStrasillaFiduciary.com",
+    "lat": 37.31077,
+    "lng": -121.85066
+  },
+  {
     "name": "Lillian Street",
     "company": "",
     "address": "15 Santa Maria",
@@ -8038,6 +9718,18 @@
     "email": "office@horizonrcm.com",
     "lat": 39.11399,
     "lng": -121.68589
+  },
+  {
+    "name": "Julie Sugita",
+    "company": "",
+    "address": "PO Box 1268",
+    "city": "Alpine",
+    "state": "CA",
+    "zip": "91903",
+    "phone": "(619) 980-6416",
+    "email": "j.sugita5@gmail.com",
+    "lat": 32.70381,
+    "lng": -116.79146
   },
   {
     "name": "James Sullivan",
@@ -8074,6 +9766,18 @@
     "email": "colette@csfidu.com",
     "lat": 37.04999,
     "lng": -122.05839
+  },
+  {
+    "name": "Christopher Swim",
+    "company": "",
+    "address": "P.O. Box 8090",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93747",
+    "phone": "",
+    "email": "",
+    "lat": 36.77606,
+    "lng": -119.79666
   },
   {
     "name": "Neeta Tagare",
@@ -8196,6 +9900,18 @@
     "lng": -122.08864
   },
   {
+    "name": "Douglas Teeter",
+    "company": "",
+    "address": "1141 Capuchino Ave #1934",
+    "city": "Burlingame",
+    "state": "CA",
+    "zip": "94011",
+    "phone": "",
+    "email": "",
+    "lat": 37.46667,
+    "lng": -122.26536
+  },
+  {
     "name": "Dominique Tehrani",
     "company": "",
     "address": "PO Box 842",
@@ -8268,6 +9984,30 @@
     "lng": -118.123
   },
   {
+    "name": "Shawna Thomson",
+    "company": "",
+    "address": "PO Box 923",
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "zip": "93406",
+    "phone": "",
+    "email": "thomsonfiduciary@gmail.com",
+    "lat": 35.20628,
+    "lng": -120.56593
+  },
+  {
+    "name": "Thomas Thorpe",
+    "company": "",
+    "address": "PO Box 33215",
+    "city": "Los Gatos",
+    "state": "CA",
+    "zip": "95031",
+    "phone": "(408) 458-7772",
+    "email": "tom@thorpetrust.com",
+    "lat": 37.08486,
+    "lng": -121.85947
+  },
+  {
     "name": "Kamilla Tien",
     "company": "",
     "address": "122A E Foothill Blvd",
@@ -8290,6 +10030,18 @@
     "email": "michele@one-elle-management.com",
     "lat": 37.71055,
     "lng": -122.16412
+  },
+  {
+    "name": "Adam Tight",
+    "company": "",
+    "address": "PO Box 221308",
+    "city": "Carmel",
+    "state": "CA",
+    "zip": "93922",
+    "phone": "(831) 601-2966",
+    "email": "adam@profid.co",
+    "lat": 36.47713,
+    "lng": -121.57487
   },
   {
     "name": "Brian Toeppen",
@@ -8436,6 +10188,18 @@
     "lng": -121.01932
   },
   {
+    "name": "Kurt Trutner",
+    "company": "",
+    "address": "PO Box 133",
+    "city": "Corte Madera",
+    "state": "CA",
+    "zip": "94976",
+    "phone": "(415) 309-8344",
+    "email": "kurt.trutner@gmail.com",
+    "lat": 38.0794,
+    "lng": -122.68301
+  },
+  {
     "name": "Brian Tucker",
     "company": "",
     "address": "1380 El Cajon Blvd Ste 216",
@@ -8458,6 +10222,18 @@
     "email": "charley@primefiduciary.com",
     "lat": 37.35955,
     "lng": -122.13306
+  },
+  {
+    "name": "Monica Tull",
+    "company": "",
+    "address": "PO Box 2067",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "zip": "93120",
+    "phone": "(925) 451-0079",
+    "email": "monica.tull@presidioprivate.com",
+    "lat": 34.45685,
+    "lng": -119.76967
   },
   {
     "name": "Bryan Tuttle",
@@ -8520,6 +10296,18 @@
     "lng": -122.11299
   },
   {
+    "name": "Jamie Urner",
+    "company": "",
+    "address": "PO Box 2367",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93303",
+    "phone": "(661) 979-5707",
+    "email": "jamie@jamieurner.com",
+    "lat": 35.35556,
+    "lng": -119.02542
+  },
+  {
     "name": "Maryann Valentine",
     "company": "",
     "address": "1319 Washington Ave",
@@ -8544,6 +10332,18 @@
     "lng": -117.98028
   },
   {
+    "name": "Tiffany Van Wingerden",
+    "company": "",
+    "address": "PO Box 186",
+    "city": "Santa Paula",
+    "state": "CA",
+    "zip": "93061",
+    "phone": "(805) 620-0562",
+    "email": "",
+    "lat": 34.2495,
+    "lng": -119.12162
+  },
+  {
     "name": "Mabel Vandenbrink",
     "company": "",
     "address": "5610 Quarter Horse Cir",
@@ -8554,6 +10354,18 @@
     "email": "mabel@sdcountyfiduciary.com",
     "lat": 33.25027,
     "lng": -117.28123
+  },
+  {
+    "name": "Annette Vanderburg",
+    "company": "",
+    "address": "PO Box 25601",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93729",
+    "phone": "(559) 906-7883",
+    "email": "legalresolutions@attitude.com",
+    "lat": 36.77606,
+    "lng": -119.79666
   },
   {
     "name": "Barry VanderKelen",
@@ -8662,6 +10474,18 @@
     "email": "kim@menschfiduciary.com",
     "lat": 32.80557,
     "lng": -117.03996
+  },
+  {
+    "name": "Annelle Villa-Rubio",
+    "company": "",
+    "address": "2960 Huntington Dr #80498",
+    "city": "San Marino",
+    "state": "CA",
+    "zip": "91118",
+    "phone": "",
+    "email": "",
+    "lat": 34.15171,
+    "lng": -118.13389
   },
   {
     "name": "Sheri Vogt",
@@ -8782,6 +10606,18 @@
     "email": "marina@diablovalleyfiduciary.com",
     "lat": 37.89281,
     "lng": -122.04094
+  },
+  {
+    "name": "Merilynn Ware Early",
+    "company": "",
+    "address": "P.O. Box 7272",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92167",
+    "phone": "",
+    "email": "",
+    "lat": 32.77961,
+    "lng": -117.13547
   },
   {
     "name": "Mark Warner",
@@ -8964,6 +10800,18 @@
     "lng": -119.78719
   },
   {
+    "name": "Barry White",
+    "company": "",
+    "address": "P.O. Box 33215",
+    "city": "Los Gatos",
+    "state": "CA",
+    "zip": "95031",
+    "phone": "",
+    "email": "",
+    "lat": 37.08486,
+    "lng": -121.85947
+  },
+  {
     "name": "Dusty White",
     "company": "",
     "address": "470 Rosewood Ave",
@@ -8974,6 +10822,30 @@
     "email": "dustywhite@mac.com",
     "lat": 37.31397,
     "lng": -121.96381
+  },
+  {
+    "name": "Teresa Whorton",
+    "company": "",
+    "address": "P.O Box 3259",
+    "city": "Winnetka",
+    "state": "CA",
+    "zip": "91396",
+    "phone": "",
+    "email": "",
+    "lat": 34.26803,
+    "lng": -118.57886
+  },
+  {
+    "name": "Kacie Whye",
+    "company": "",
+    "address": "P.O. Box 25385",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93729",
+    "phone": "",
+    "email": "",
+    "lat": 36.77606,
+    "lng": -119.79666
   },
   {
     "name": "Sandra Wickland Dexter",
@@ -9096,6 +10968,18 @@
     "lng": -118.40444
   },
   {
+    "name": "Tiffany Wingerden",
+    "company": "",
+    "address": "PO Box 186",
+    "city": "Santa Paula",
+    "state": "CA",
+    "zip": "93061",
+    "phone": "(805) 620-0562",
+    "email": "tiffany@coastfiduciary.com",
+    "lat": 34.2495,
+    "lng": -119.12162
+  },
+  {
     "name": "Jennifer Winship",
     "company": "",
     "address": "1271 Washington Ave",
@@ -9132,6 +11016,30 @@
     "lng": -118.37243
   },
   {
+    "name": "Don Wood",
+    "company": "",
+    "address": "P.O. Box 16703",
+    "city": "Encino",
+    "state": "CA",
+    "zip": "91416",
+    "phone": "",
+    "email": "",
+    "lat": 34.17846,
+    "lng": -118.4581
+  },
+  {
+    "name": "Matthew Woodbury",
+    "company": "",
+    "address": "P.O. Box 1865",
+    "city": "La Jolla",
+    "state": "CA",
+    "zip": "92038",
+    "phone": "",
+    "email": "",
+    "lat": 33.11754,
+    "lng": -117.07694
+  },
+  {
     "name": "Ann Woodson",
     "company": "",
     "address": "25108 Marguerite Parkway",
@@ -9154,6 +11062,18 @@
     "email": "",
     "lat": 33.48076,
     "lng": -117.71435
+  },
+  {
+    "name": "Stacey Wright",
+    "company": "",
+    "address": "P.O. Box 4131",
+    "city": "Palm Springs",
+    "state": "CA",
+    "zip": "92263",
+    "phone": "",
+    "email": "",
+    "lat": 33.60946,
+    "lng": -115.90416
   },
   {
     "name": "Varee Wycoff",
@@ -9394,5 +11314,17 @@
     "email": "",
     "lat": 37.88976,
     "lng": -121.98733
+  },
+  {
+    "name": "Barbara Zuzow-Der Boghossian",
+    "company": "",
+    "address": "PO Box 10817",
+    "city": "Glendale",
+    "state": "CA",
+    "zip": "91209",
+    "phone": "(818) 524-8888",
+    "email": "",
+    "lat": 34.1674,
+    "lng": -118.25269
   }
 ]
