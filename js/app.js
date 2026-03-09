@@ -121,6 +121,7 @@
       },
       mouseout: function (e) {
         Choropleth.resetStyle(e.target);
+        e.target.closeTooltip();
       },
       click: function () {
         drillDown(zip3, layer);
@@ -260,6 +261,7 @@
         },
         mouseout: function (e) {
           Choropleth.resetStyle(e.target);
+          e.target.closeTooltip();
         },
         click: function () {
           drillDown(zip3, layer);
@@ -281,16 +283,33 @@
   }
 
   function onMetricChange(metric) {
-    Choropleth.computeScale(data.zip3GeoJSON, metric);
+    if (metric !== 'outline') {
+      Choropleth.computeScale(data.zip3GeoJSON, metric);
+    }
+
+    // Show/hide legend based on mode
+    if (metric === 'outline') {
+      if (legend._container) legend._container.style.display = 'none';
+    } else {
+      if (legend._container) legend._container.style.display = '';
+      legend.update();
+    }
 
     if (zip5Layer) {
       // In drill-down mode - restyle ZIP5 layer
       zip5Layer.eachLayer(function (layer) {
-        const prop = Choropleth.getPropertyName();
-        const value = layer.feature.properties[prop];
-        layer.setStyle({
-          fillColor: Choropleth.getColor(value),
-        });
+        if (metric === 'outline') {
+          layer.setStyle({ fillColor: 'transparent', fillOpacity: 0, color: '#666', weight: 1 });
+        } else {
+          const prop = Choropleth.getPropertyName();
+          const value = layer.feature.properties[prop];
+          layer.setStyle({
+            fillColor: Choropleth.getColor(value),
+            fillOpacity: 0.7,
+            color: '#fff',
+            weight: 1,
+          });
+        }
       });
     } else {
       // In state view - restyle ZIP3 layer and update tooltips
@@ -299,21 +318,28 @@
 
         const feature = layer.feature;
         const zip3 = feature.properties.ZIP3;
-        const prop = Choropleth.getPropertyName();
-        const value = feature.properties[prop];
 
         layer.unbindTooltip();
-        layer.bindTooltip(
-          `<div class="region-tooltip">
-            <strong>${zip3}</strong> - ${feature.properties.topTowns || 'Region ' + zip3}<br/>
-            ${Choropleth.formatValue(value)}
-          </div>`,
-          { sticky: true }
-        );
+        if (metric === 'outline') {
+          layer.bindTooltip(
+            `<div class="region-tooltip">
+              <strong>${zip3}</strong> - ${feature.properties.topTowns || 'Region ' + zip3}
+            </div>`,
+            { sticky: true }
+          );
+        } else {
+          const prop = Choropleth.getPropertyName();
+          const value = feature.properties[prop];
+          layer.bindTooltip(
+            `<div class="region-tooltip">
+              <strong>${zip3}</strong> - ${feature.properties.topTowns || 'Region ' + zip3}<br/>
+              ${Choropleth.formatValue(value)}
+            </div>`,
+            { sticky: true }
+          );
+        }
       });
     }
-
-    legend.update();
   }
 
   // Start the app

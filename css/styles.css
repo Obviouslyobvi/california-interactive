@@ -284,6 +284,7 @@ body {
   background: transparent !important;
   border: none !important;
   box-shadow: none !important;
+  pointer-events: none !important;
 }
 
 .zip3-label span {

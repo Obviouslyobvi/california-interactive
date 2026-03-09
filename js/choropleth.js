@@ -78,6 +78,15 @@ const Choropleth = (function () {
   }
 
   function regionStyle(feature) {
+    if (currentMetric === 'outline') {
+      return {
+        fillColor: 'transparent',
+        weight: 1.5,
+        opacity: 1,
+        color: '#666',
+        fillOpacity: 0,
+      };
+    }
     const value = feature.properties[getPropertyName()];
     return {
       fillColor: getColor(value),
@@ -156,6 +165,7 @@ const Choropleth = (function () {
       div.innerHTML = `
         <button data-metric="population" class="active">Population</button>
         <button data-metric="income">Income</button>
+        <button data-metric="outline">Outline</button>
       `;
 
       L.DomEvent.disableClickPropagation(div);
