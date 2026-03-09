@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>California ZIP Code Explorer</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div id="app">
+    <div id="map"></div>
+    <div id="panel">
+      <div id="panel-header">
+        <button id="back-btn" class="hidden" aria-label="Back to state view">&larr; Back</button>
+        <h2 id="panel-title">California ZIP Code Explorer</h2>
+      </div>
+      <div id="panel-content">
+        <div id="loading-spinner">
+          <div class="spinner"></div>
+          <p>Loading data...</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://unpkg.com/chroma-js@2.6.0/chroma.min.js"></script>
+  <script src="js/data-loader.js"></script>
+  <script src="js/choropleth.js"></script>
+  <script src="js/panel.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
