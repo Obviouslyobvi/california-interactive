@@ -7,6 +7,7 @@
   let zip3Layer;
   let zip5Layer;
   let zip3LabelLayer;
+  let fiduciaryLayer;
   let legend;
   let data;
 
@@ -79,6 +80,26 @@
     const toggle = Choropleth.createToggle(map, onMetricChange);
     toggle.addTo(map);
 
+    // Fiduciary star layer
+    buildFiduciaryLayer();
+
+    // Fiduciary toggle control
+    const fidToggle = L.control({ position: 'topright' });
+    fidToggle.onAdd = function () {
+      const div = L.DomUtil.create('div', 'fiduciary-toggle');
+      div.innerHTML = '<label><input type="checkbox" id="fid-checkbox"> Show Fiduciaries</label>';
+      L.DomEvent.disableClickPropagation(div);
+      div.querySelector('#fid-checkbox').addEventListener('change', function () {
+        if (this.checked) {
+          fiduciaryLayer.addTo(map);
+        } else {
+          map.removeLayer(fiduciaryLayer);
+        }
+      });
+      return div;
+    };
+    fidToggle.addTo(map);
+
     // Fit bounds to California
     map.fitBounds(zip3Layer.getBounds(), { padding: [20, 20] });
 
@@ -100,6 +121,32 @@
       L.marker(center, { icon: label, interactive: false }).addTo(zip3LabelLayer);
     });
     zip3LabelLayer.addTo(map);
+  }
+
+  function buildFiduciaryLayer() {
+    fiduciaryLayer = L.layerGroup();
+    const starIcon = L.divIcon({
+      className: 'fiduciary-star',
+      html: '&#9733;',
+      iconSize: [20, 20],
+      iconAnchor: [10, 10],
+    });
+
+    for (const fid of data.fiduciaries) {
+      const marker = L.marker([fid.lat, fid.lng], { icon: starIcon });
+      let popupHtml = '<div class="fiduciary-popup">';
+      if (fid.name) popupHtml += '<strong>' + fid.name + '</strong><br/>';
+      if (fid.company) popupHtml += fid.company + '<br/>';
+      if (fid.address) popupHtml += fid.address + '<br/>';
+      if (fid.city || fid.state || fid.zip) {
+        popupHtml += [fid.city, fid.state, fid.zip].filter(Boolean).join(', ') + '<br/>';
+      }
+      if (fid.phone) popupHtml += 'Phone: ' + fid.phone + '<br/>';
+      if (fid.email) popupHtml += 'Email: ' + fid.email;
+      popupHtml += '</div>';
+      marker.bindPopup(popupHtml);
+      marker.addTo(fiduciaryLayer);
+    }
   }
 
   function onEachZip3Feature(feature, layer) {

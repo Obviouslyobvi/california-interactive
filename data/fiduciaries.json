@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Meredith Adams",
+    "company": "",
+    "address": "4142 Adams Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92116",
+    "phone": "(520) 850-6021",
+    "email": "meredith@adamsfiduciaryservices.com",
+    "lat": 32.7668,
+    "lng": -117.12089
+  },
+  {
+    "name": "Therese Adams",
+    "company": "",
+    "address": "661 5th St",
+    "city": "Lincoln",
+    "state": "CA",
+    "zip": "95648",
+    "phone": "(916) 409-2330",
+    "email": "adams@tadfiduciary.com",
+    "lat": 38.94544,
+    "lng": -121.27133
+  }
+]
