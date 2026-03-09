@@ -279,6 +279,22 @@ body {
   flex-shrink: 0;
 }
 
+/* ZIP3 labels on map */
+.zip3-label {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.zip3-label span {
+  font-size: 14px;
+  font-weight: 800;
+  color: #000;
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
 /* Tooltip */
 .region-tooltip {
   font-size: 13px;

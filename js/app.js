@@ -6,6 +6,7 @@
   let outlineLayer;
   let zip3Layer;
   let zip5Layer;
+  let zip3LabelLayer;
   let legend;
   let data;
 
@@ -65,6 +66,9 @@
       onEachFeature: onEachZip3Feature,
     }).addTo(map);
 
+    // ZIP3 labels
+    addZip3Labels();
+
     // Legend
     legend = Choropleth.createLegend(map);
     legend.addTo(map);
@@ -78,6 +82,22 @@
 
     // Show overview panel
     Panel.showOverview(data.zip3Summary, data.zip5Details);
+  }
+
+  function addZip3Labels() {
+    zip3LabelLayer = L.layerGroup();
+    zip3Layer.eachLayer(function (layer) {
+      const zip3 = layer.feature.properties.ZIP3;
+      const center = layer.getBounds().getCenter();
+      const label = L.divIcon({
+        className: 'zip3-label',
+        html: '<span>' + zip3 + '</span>',
+        iconSize: [40, 20],
+        iconAnchor: [20, 10],
+      });
+      L.marker(center, { icon: label, interactive: false }).addTo(zip3LabelLayer);
+    });
+    zip3LabelLayer.addTo(map);
   }
 
   function onEachZip3Feature(feature, layer) {
@@ -109,6 +129,9 @@
   }
 
   function drillDown(zip3, clickedLayer) {
+    // Hide ZIP3 labels
+    if (zip3LabelLayer) map.removeLayer(zip3LabelLayer);
+
     // Remove ZIP3 layer interactions temporarily
     zip3Layer.eachLayer(function (layer) {
       layer.setStyle({
@@ -246,6 +269,9 @@
 
     // Reset zoom
     map.fitBounds(zip3Layer.getBounds(), { padding: [20, 20] });
+
+    // Show ZIP3 labels again
+    if (zip3LabelLayer) zip3LabelLayer.addTo(map);
 
     // Bring outline to front
     if (outlineLayer) outlineLayer.bringToFront();
