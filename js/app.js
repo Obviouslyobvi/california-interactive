@@ -107,12 +107,11 @@
     const prop = Choropleth.getPropertyName();
     const value = feature.properties[prop];
 
-    layer.bindTooltip(
+    layer.bindPopup(
       `<div class="region-tooltip">
         <strong>${zip3}</strong> - ${feature.properties.topTowns || 'Region ' + zip3}<br/>
         ${Choropleth.formatValue(value)}
-      </div>`,
-      { sticky: true }
+      </div>`
     );
 
     layer.on({
@@ -123,9 +122,9 @@
       },
       mouseout: function (e) {
         Choropleth.resetStyle(e.target);
-        e.target.closeTooltip();
       },
-      click: function () {
+      dblclick: function () {
+        map.closePopup();
         drillDown(zip3, layer);
       },
     });
@@ -143,7 +142,7 @@
         color: '#ccc',
       });
       layer.off('mouseover mouseout');
-      layer.unbindTooltip();
+      layer.unbindPopup();
     });
 
     // Highlight the clicked region
@@ -194,13 +193,12 @@
         const zcta = feature.properties.ZCTA5CE10 || feature.properties.ZCTA5CE20 || '';
         const detail = data.zip5Details.get(zcta);
         if (detail) {
-          layer.bindTooltip(
+          layer.bindPopup(
             `<div class="region-tooltip">
               <strong>${zcta}</strong> - ${detail.town}<br/>
               Pop: ${Number(detail.population).toLocaleString()}<br/>
               Income: $${Number(detail.income).toLocaleString()}
-            </div>`,
-            { sticky: true }
+            </div>`
           );
         }
 
@@ -247,12 +245,11 @@
       const prop = Choropleth.getPropertyName();
       const value = feature.properties[prop];
 
-      layer.bindTooltip(
+      layer.bindPopup(
         `<div class="region-tooltip">
           <strong>${zip3}</strong> - ${feature.properties.topTowns || 'Region ' + zip3}<br/>
           ${Choropleth.formatValue(value)}
-        </div>`,
-        { sticky: true }
+        </div>`
       );
 
       layer.on({
@@ -263,9 +260,9 @@
         },
         mouseout: function (e) {
           Choropleth.resetStyle(e.target);
-          e.target.closeTooltip();
         },
-        click: function () {
+        dblclick: function () {
+          map.closePopup();
           drillDown(zip3, layer);
         },
       });
@@ -301,7 +298,7 @@
       // In drill-down mode - restyle ZIP5 layer
       zip5Layer.eachLayer(function (layer) {
         if (metric === 'outline') {
-          layer.setStyle({ fillColor: '#fff', fillOpacity: 0.3, color: '#333', weight: 1 });
+          layer.setStyle({ fillColor: '#d9d9d9', fillOpacity: 0.5, color: '#333', weight: 1 });
         } else {
           const prop = Choropleth.getPropertyName();
           const value = layer.feature.properties[prop];
@@ -321,23 +318,21 @@
         const feature = layer.feature;
         const zip3 = feature.properties.ZIP3;
 
-        layer.unbindTooltip();
+        layer.unbindPopup();
         if (metric === 'outline') {
-          layer.bindTooltip(
+          layer.bindPopup(
             `<div class="region-tooltip">
               <strong>${zip3}</strong> - ${feature.properties.topTowns || 'Region ' + zip3}
-            </div>`,
-            { sticky: true }
+            </div>`
           );
         } else {
           const prop = Choropleth.getPropertyName();
           const value = feature.properties[prop];
-          layer.bindTooltip(
+          layer.bindPopup(
             `<div class="region-tooltip">
               <strong>${zip3}</strong> - ${feature.properties.topTowns || 'Region ' + zip3}<br/>
               ${Choropleth.formatValue(value)}
-            </div>`,
-            { sticky: true }
+            </div>`
           );
         }
       });
