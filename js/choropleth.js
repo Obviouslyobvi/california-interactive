@@ -1,5 +1,6 @@
 /**
  * Choropleth - color scales, styling, and legend
+ * No external dependencies - uses built-in color interpolation
  */
 const Choropleth = (function () {
   const SCALES = {
@@ -14,8 +15,36 @@ const Choropleth = (function () {
   };
 
   let currentMetric = 'population';
-  let colorScale = null;
+  let scaleColors = [];
+  let scaleMin = 0;
+  let scaleMax = 1;
   let breaks = [];
+
+  // Parse hex color to [r, g, b]
+  function hexToRgb(hex) {
+    const n = parseInt(hex.slice(1), 16);
+    return [(n >> 16) & 255, (n >> 8) & 255, n & 255];
+  }
+
+  // Convert [r, g, b] to hex
+  function rgbToHex(r, g, b) {
+    return '#' + ((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1);
+  }
+
+  // Interpolate across an array of colors given t in [0, 1]
+  function interpolateColors(colors, t) {
+    t = Math.max(0, Math.min(1, t));
+    const n = colors.length - 1;
+    const i = Math.min(Math.floor(t * n), n - 1);
+    const f = t * n - i;
+    const c1 = hexToRgb(colors[i]);
+    const c2 = hexToRgb(colors[i + 1]);
+    return rgbToHex(
+      Math.round(c1[0] + (c2[0] - c1[0]) * f),
+      Math.round(c1[1] + (c2[1] - c1[1]) * f),
+      Math.round(c1[2] + (c2[2] - c1[2]) * f)
+    );
+  }
 
   function computeScale(geojson, metric) {
     const prop = metric === 'population' ? 'totalPopulation' : 'avgMedianIncome';
@@ -26,22 +55,22 @@ const Choropleth = (function () {
 
     if (values.length === 0) return;
 
-    const min = values[0];
-    const max = values[values.length - 1];
-
-    colorScale = chroma.scale(SCALES[metric].colors).domain([min, max]);
+    scaleMin = values[0];
+    scaleMax = values[values.length - 1];
+    scaleColors = SCALES[metric].colors;
 
     // Build legend breaks (7 steps)
-    const step = (max - min) / 6;
+    const step = (scaleMax - scaleMin) / 6;
     breaks = [];
     for (let i = 0; i < 7; i++) {
-      breaks.push(Math.round(min + step * i));
+      breaks.push(Math.round(scaleMin + step * i));
     }
   }
 
   function getColor(value) {
-    if (!colorScale || !value) return '#ddd';
-    return colorScale(value).hex();
+    if (!scaleColors.length || !value) return '#ddd';
+    const t = (value - scaleMin) / (scaleMax - scaleMin);
+    return interpolateColors(scaleColors, t);
   }
 
   function getPropertyName() {
