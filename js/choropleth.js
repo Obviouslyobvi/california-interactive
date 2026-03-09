@@ -84,7 +84,7 @@ const Choropleth = (function () {
         weight: 1.5,
         opacity: 1,
         color: '#333',
-        fillOpacity: 0.5,
+        fillOpacity: 0.15,
       };
     }
     const value = feature.properties[getPropertyName()];
