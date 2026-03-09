@@ -80,11 +80,11 @@ const Choropleth = (function () {
   function regionStyle(feature) {
     if (currentMetric === 'outline') {
       return {
-        fillColor: '#fff',
+        fillColor: '#d9d9d9',
         weight: 1.5,
         opacity: 1,
         color: '#333',
-        fillOpacity: 0.3,
+        fillOpacity: 0.5,
       };
     }
     const value = feature.properties[getPropertyName()];

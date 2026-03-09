@@ -303,6 +303,47 @@ body {
   padding: 6px 10px;
 }
 
+/* Fiduciary stars */
+.fiduciary-star {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  color: #d4a017;
+  font-size: 22px;
+  line-height: 20px;
+  text-align: center;
+  text-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+.fiduciary-popup {
+  font-size: 13px;
+  line-height: 1.5;
+  padding: 4px 6px;
+}
+
+.fiduciary-popup strong {
+  font-size: 14px;
+}
+
+.fiduciary-toggle {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  padding: 8px 14px;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  margin-top: 8px;
+}
+
+.fiduciary-toggle label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   #app {

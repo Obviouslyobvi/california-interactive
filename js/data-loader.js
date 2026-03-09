@@ -97,11 +97,12 @@ const DataLoader = (function () {
   }
 
   async function loadAll() {
-    const [zip3GeoJSON, zip5GeoJSON, caOutline, csvRows] = await Promise.all([
+    const [zip3GeoJSON, zip5GeoJSON, caOutline, csvRows, fiduciaries] = await Promise.all([
       fetchJSON('data/ca-zip3-regions.geojson'),
       fetchJSON('data/ca-zip5-regions.geojson'),
       fetchJSON('data/ca-outline.geojson'),
       parseCSV('data/zip-data.csv'),
+      fetchJSON('data/fiduciaries.json').catch(() => []),
     ]);
 
     const { zip5Details, zip3Summary } = buildLookups(csvRows);
@@ -113,6 +114,7 @@ const DataLoader = (function () {
       caOutline,
       zip3Summary,
       zip5Details,
+      fiduciaries,
     };
   }
 
