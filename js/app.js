@@ -345,7 +345,7 @@
       // In drill-down mode - restyle ZIP5 layer
       zip5Layer.eachLayer(function (layer) {
         if (metric === 'outline') {
-          layer.setStyle({ fillColor: '#d9d9d9', fillOpacity: 0.5, color: '#333', weight: 1 });
+          layer.setStyle({ fillColor: '#d9d9d9', fillOpacity: 0.15, color: '#333', weight: 1 });
         } else {
           const prop = Choropleth.getPropertyName();
           const value = layer.feature.properties[prop];
