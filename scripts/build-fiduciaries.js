@@ -98,13 +98,10 @@ for (let i = 1; i < lines.length; i++) {
   const fields = parseCSVLine(line);
   const lastName = fields[idxLastName] || '';
   const firstName = fields[idxFirstName] || '';
-  const email = fields[idxEmail] || '';
   const company = fields[idxCompany] || '';
-  const address = fields[idxAddress] || '';
   const city = fields[idxCity] || '';
   const state = fields[idxState] || '';
   const postalCode = fields[idxPostalCode] || '';
-  const phone = fields[idxPhone3] || fields[idxPhone2] || fields[idxPhone1] || '';
   const suite = fields[idxCustom9] || '';
 
   // Clean postal code to 5 digits
@@ -121,19 +118,13 @@ for (let i = 1; i < lines.length; i++) {
     continue;
   }
 
-  // Build full address
-  let fullAddress = address;
-  if (suite) fullAddress += ' ' + suite;
 
   fiduciaries.push({
     name: (firstName + ' ' + lastName).trim(),
     company: company || '',
-    address: fullAddress,
     city,
     state,
     zip: zip5,
-    phone,
-    email,
     lat: coords[0],
     lng: coords[1],
   });

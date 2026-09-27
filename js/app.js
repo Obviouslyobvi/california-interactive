@@ -137,12 +137,9 @@
       let popupHtml = '<div class="fiduciary-popup">';
       if (fid.name) popupHtml += '<strong>' + fid.name + '</strong><br/>';
       if (fid.company) popupHtml += fid.company + '<br/>';
-      if (fid.address) popupHtml += fid.address + '<br/>';
       if (fid.city || fid.state || fid.zip) {
         popupHtml += [fid.city, fid.state, fid.zip].filter(Boolean).join(', ') + '<br/>';
       }
-      if (fid.phone) popupHtml += 'Phone: ' + fid.phone + '<br/>';
-      if (fid.email) popupHtml += 'Email: ' + fid.email;
       popupHtml += '</div>';
       marker.bindPopup(popupHtml);
       marker.addTo(fiduciaryLayer);
